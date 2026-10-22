@@ -1,0 +1,25 @@
+{
+  "notice": "Small starter set. Sanskrit text references should be checked against the cited edition before a public release. Translations are original editorial drafts, not published translations; review by qualified readers is required.",
+  "verses": [
+    {
+      "id": "bg-2-47", "collection": "Bhagavad Gita", "source": "Bhagavad Gita", "reference": "2.47",
+      "original": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "meaning": "Act with care; hold lightly to the outcome.",
+      "translations": {
+        "en": "Your choice is in action alone, never in its fruits. Do not make results your motive, and do not become attached to inaction.",
+        "hi": "तुम्हारा अधिकार कर्म में है, उसके फलों में कभी नहीं। कर्मफल को ही अपना उद्देश्य मत बनाओ और अकर्म में भी आसक्त मत हो।",
+        "gu": "તમારો અધિકાર કર્મમાં છે, તેના ફળમાં ક્યારેય નહીં. કર્મફળને જ હેતુ ન બનાવો અને અકર્મમાં પણ આસક્ત ન થાઓ."
+      }
+    },
+    {
+      "id": "bg-12-15", "collection": "Bhagavad Gita", "source": "Bhagavad Gita", "reference": "12.15",
+      "original": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥",
+      "meaning": "Steadiness and kindness bring peace to our relationships.",
+      "translations": {
+        "en": "One who does not disturb the world, and is not disturbed by it, who is free from agitation, resentment, fear and anxiety, is dear to Me.",
+        "hi": "जो किसी को उद्विग्न नहीं करता और स्वयं भी उद्विग्न नहीं होता, जो हर्ष, अमर्ष, भय और चिंता से मुक्त है, वह मुझे प्रिय है।",
+        "gu": "જે લોકને ઉદ્વેગમાં મૂકતો નથી અને પોતે પણ ઉદ્વેગમાં આવતો નથી, જે હર્ષ, અમર્ષ, ભય અને ચિંતાથી મુક્ત છે, તે મને પ્રિય છે."
+      }
+    }
+  ]
+}

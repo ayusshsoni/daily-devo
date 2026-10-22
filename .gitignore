@@ -1,0 +1,12 @@
+.gradle/
+.kotlin/
+local.properties
+**/build/
+captures/
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+.env
+.env.*
+!.env.example
